@@ -5,9 +5,11 @@ docs/_autosummary
 docs/_build
 
 creds.json
+sketchgraphs/onshape/feature_template.json
+
 build/
 *.cpython-37m-x86_64-linux-gnu.so
 
-
+sketchgraphs.egg-info
 
 

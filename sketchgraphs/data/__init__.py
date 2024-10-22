@@ -14,6 +14,7 @@ to interact with Onshape's API. However, it interacts more naturally with machin
 
 from .sketch import *
 from .sequence import *
+from .dxf import sketch_to_dxf
 
 from .sketch import Sketch, EntityType, SubnodeType, Entity, GenericEntity, Point, Line, Circle, Arc, Spline, Ellipse, ENTITY_TYPE_TO_CLASS
 from .sketch import render_sketch, render_graph
